@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "iWiFi v0.3"
+date:   2019-05-06
+deadline:   2019-05-10
+categories: "Team Story"
+author: 林
+---
+## 背景
+让工具的功能稳定。
+
+## 参与人员
+`陈`、`张`
+
+## 核心功能
+- 优化功能。
+
+## 项目日志
+![项目日志]({{ "/assets/iWiFi v0.3项目日志.png" | absolute_url }})
+
+## 评审结果
+- 基本顺利
+
+## 需要改进
+
+|问题|解决方案|
+|:-|:-|
+|无||

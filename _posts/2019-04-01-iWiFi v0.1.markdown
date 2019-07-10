@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "iWiFi v0.1"
+date:   2019-04-01
+deadline:   2019-04-12
+categories: "Team Story"
+author: 林
+---
+## 背景
+用工具代替人为。
+
+## 参与人员
+`陈`、`张`
+
+## 核心功能
+- Ping测试。
+- 信号强度测试。
+- 网速测试。
+
+## 项目日志
+![项目日志]({{ "/assets/iWiFi v0.1项目日志.png" | absolute_url }})
+
+## 评审结果
+- 基本顺利
+
+## 需要改进
+
+|问题|解决方案|
+|:-|:-|
+|无||
